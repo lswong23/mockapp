@@ -1,9 +1,9 @@
-# climaterewards
-Climate Rewards is an app-based solution that tracks users' travel patterns and rewards the users with "green tokens”. 
+# Mockapp
+Mockapp is an app-based solution that tracks users' travel patterns and rewards the users with "green tokens”. 
 
 
 ## Project Concept
-Climate Rewards is a gamified app that turns the use of active travel (walking/cycling) and public transport into and fun and sociable activities. Users earn rewards and compete with their peers on a leaderboard by reaching specific steps/journey goals or completing challenges, the green tokens can be spent with local shops and partners.
+Mockapp is a gamified app that turns the use of active travel (walking/cycling) and public transport into and fun and sociable activities. Users earn rewards and compete with their peers on a leaderboard by reaching specific steps/journey goals or completing challenges, the green tokens can be spent with local shops and partners.
 
 ## Target Audience
 The target audience for this app is individuals who want to be more environmental friendly and care about the climate. It caters to people who enjoy gamification and want to stay active/green while having fun and supporting the local shops.
